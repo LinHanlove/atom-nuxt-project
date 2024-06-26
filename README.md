@@ -72,4 +72,51 @@ yarn preview
 bun run preview
 ```
 
+├── README.md
+├── app.vue
+├── assets
+│   └── css
+│       └── main.css
+├── components
+│   ├── Atom.vue
+│   └── Layout
+│       └── Header
+│           └── index.vue
+├── composables
+│   ├── states.ts
+│   └── useSay.ts
+├── content
+│   └── index.md
+├── eslint.config.js
+├── layouts
+│   ├── custom.vue
+│   └── default.vue
+├── middleware
+│   ├── auth.global.ts
+│   └── auth.ts
+├── nuxt.config.ts
+├── package.json
+├── pages
+│   ├── Main
+│   │   └── index.vue
+│   └── index.vue
+├── plugins
+│   ├── focus.ts
+│   └── myPlugins.ts
+├── public
+│   └── favicon.ico
+├── server
+│   ├── api
+│   │   └── hello.ts
+│   ├── routes
+│   │   └── hello.ts
+│   └── tsconfig.json
+├── stores
+│   └── myStore.ts
+├── tailwind.config.js
+├── tree.text
+├── tsconfig.json
+└── yarn.lock
+
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
