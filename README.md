@@ -71,10 +71,9 @@ yarn preview
 # bun
 bun run preview
 ```
-```
-
 ## 项目目录结构
 
+```
 ├── README.md
 ├── app.vue
 ├── assets
