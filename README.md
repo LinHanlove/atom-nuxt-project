@@ -71,6 +71,9 @@ yarn preview
 # bun
 bun run preview
 ```
+```
+
+## 项目目录结构
 
 ├── README.md
 ├── app.vue
@@ -117,6 +120,7 @@ bun run preview
 ├── tree.text
 ├── tsconfig.json
 └── yarn.lock
+```
 
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
